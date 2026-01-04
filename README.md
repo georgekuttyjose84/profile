@@ -8,7 +8,7 @@ It is designed to be clean, responsive, and professional, highlighting both my b
 ## 🔗 Live Website
 
 👉 View Portfolio:
-https://georgekuttyjose84.github.io/portfolio/
+https://georgekuttyjose84.github.io/profile/
 
 ---
 
